@@ -7,3 +7,6 @@ This a simple landing page where users will be greeted with the current time, an
 * HTMLL
 * CSS
 * JavaScript
+
+## DEMO
+[Click here for live demo](https://hello-there27.netlify.app/)
